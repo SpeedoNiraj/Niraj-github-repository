@@ -6,3 +6,9 @@ Opensource is the key to sucess
 
 ## GITHUB Training
 Using github I can share my scripts globally with proper version control. This is awesome.
+
+## Addtional text
+Welcome to the club
+
+## GITHUB conent
+comparision with repo
